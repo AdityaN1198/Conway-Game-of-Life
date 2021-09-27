@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-This is a small iteration of Conways game of life. It is a zero player game. To play follow the instructions below
+This is a small iteration of Conways game of life. It is a zero player game. To play this game, follow the instructions below
 
 1. Install python version 3 on your system (skip if already installed)
 2. Clone this repository locally
