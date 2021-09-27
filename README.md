@@ -1,4 +1,4 @@
-#Conway's Game of Life
+# Conway's Game of Life
 
 This is a small iteration of Conways game of life. It is a zero player game. To play follow the instructions below
 
